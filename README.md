@@ -27,7 +27,7 @@ In the browser open [http://localhost:8000/](http://localhost:8000/)
 You wit then be prompted to generate an APP_KEY click the green **GENERATE APP KEY** button on the top right.
 
 ## Usage  
-You can upload the affiliates.txt in the root of the repository.
+You can upload the affiliates.txt from the root of the repository.
 
 ## License
 
