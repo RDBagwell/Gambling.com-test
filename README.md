@@ -19,12 +19,15 @@ then
 npm install
 ```
 ## Run Dev environment 
-After all the dependencies have been installed, in the root directory run:
+After all the dependencies have been installed rename **.env.example** to **.env** the run  
 ```npm
 npm run watch
 ```  
-In the browser open [http://localhost:8000/](http://localhost:8000/)
+In the browser open [http://localhost:8000/](http://localhost:8000/)  
+You wit then be prompted to generate an APP_KEY click the green **GENERATE APP KEY** button on the top right.
 
+## Usage  
+You can upload the affiliates.txt in the root of the repository.
 
 ## License
 
